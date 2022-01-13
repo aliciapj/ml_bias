@@ -35,7 +35,7 @@ oauth==1.0.1
 olefile==0.45.1
 pbr==5.2.0
 pexpect==4.2.1
-Pillow==6.2.0
+Pillow==9.0.0
 pipenv==2018.11.26
 protobuf==3.9.1
 pycairo==1.16.2
