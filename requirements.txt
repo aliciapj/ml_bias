@@ -37,7 +37,7 @@ pbr==5.2.0
 pexpect==4.2.1
 Pillow==6.2.0
 pipenv==2018.11.26
-protobuf==3.9.1
+protobuf==3.18.3
 pycairo==1.16.2
 pycrypto==2.6.1
 pycups==1.9.73
